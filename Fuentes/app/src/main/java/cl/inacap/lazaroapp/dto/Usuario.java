@@ -1,4 +1,8 @@
 package cl.inacap.lazaroapp.dto;
 
-public class Usuario {
+public abstract class Usuario {
+
+    private String nombre;
+    private String rutPaciente;
+
 }
